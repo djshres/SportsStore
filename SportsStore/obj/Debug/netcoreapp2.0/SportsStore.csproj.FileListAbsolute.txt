@@ -1,0 +1,22 @@
+D:\ProNetCore\pro-asp.net-core-mvc-2-master\11 - SportsStore - Admin\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+D:\ProNetCore\pro-asp.net-core-mvc-2-master\11 - SportsStore - Admin\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+D:\ProNetCore\pro-asp.net-core-mvc-2-master\11 - SportsStore - Admin\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+D:\ProNetCore\pro-asp.net-core-mvc-2-master\11 - SportsStore - Admin\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+D:\ProNetCore\pro-asp.net-core-mvc-2-master\11 - SportsStore - Admin\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+D:\ProNetCore\pro-asp.net-core-mvc-2-master\11 - SportsStore - Admin\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
+D:\ProNetCore\pro-asp.net-core-mvc-2-master\11 - SportsStore - Admin\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+D:\ProNetCore\pro-asp.net-core-mvc-2-master\11 - SportsStore - Admin\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+D:\ProNetCore\pro-asp.net-core-mvc-2-master\11 - SportsStore - Admin\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+D:\ProNetCore\pro-asp.net-core-mvc-2-master\11 - SportsStore - Admin\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+D:\ProNetCore\pro-asp.net-core-mvc-2-master\11 - SportsStore - Admin\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
+D:\DemoApps\ProNETCore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+D:\DemoApps\ProNETCore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+D:\DemoApps\ProNETCore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+D:\DemoApps\ProNETCore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+D:\DemoApps\ProNETCore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+D:\DemoApps\ProNETCore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
+D:\DemoApps\ProNETCore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+D:\DemoApps\ProNETCore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+D:\DemoApps\ProNETCore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+D:\DemoApps\ProNETCore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+D:\DemoApps\ProNETCore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
